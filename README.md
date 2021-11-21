@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente estou focado nos meus estudos, e a procura de um estágio e/ou primeiro emprego
 - 🌱 Estou estudando Java POO
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://github.com/marllon2004">
