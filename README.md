@@ -1,7 +1,7 @@
 ### Oii! Eu sou o Marllon Araujo
 
 - 🔭 Atualmente estou focado nos meus estudos, e a procura de um estágio e/ou primeiro emprego
-- 🌱 Estou estudando Java POO
+- 🌱 Estou estudando JavaScript e ECMAScript
 
 <div>
   <a href="https://github.com/marllon2004">
