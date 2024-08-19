@@ -1,7 +1,7 @@
 ### Oii! Bem vindo (a), eu sou o Marllon Araujo
 - 🏫 Estudante de Ciência da Computação | UNIVEM
 - 🎓 Técnico em Desenvolvimento de Sistemas | ETEC
-- 👨🏻‍💻 Atualmente estou focado nos meus estudos, e atualdo como Desenvolvedor Full Stack
+- 👨🏻‍💻 Atualmente estou focado nos meus estudos, e atuo como Desenvolvedor Full Stack Junior
 
 <div>
   <a href="https://github.com/marllon2004">
